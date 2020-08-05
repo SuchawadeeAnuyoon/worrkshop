@@ -1,0 +1,74 @@
+{
+    "employee" :[
+        {
+            "name" : "นาย A",
+            "salary" : 9000,
+            "fee": null,
+            "bonus": null,
+            "balance": null,
+            "company": null,
+            "fund": null,
+            "deduction": null,
+            "balanceoffund": null,
+            "salaryofyear": null,
+            "percenttax": null,
+            "tax": null
+        },
+        {
+            "name" : "นาย B",
+            "salary" : 12000,
+            "fee": null,
+            "bonus": null,
+            "balance": null,
+            "company": null,
+            "fund": null,
+            "deduction": null,
+            "balanceoffund": null,
+            "salaryofyear": null,
+            "percenttax": null,
+            "tax": null
+        },
+        {
+            "name" : "นาย C",
+            "salary" : 15000,
+            "fee": null,
+            "bonus": null,
+            "balance": null,
+            "company": null,
+            "fund": null,
+            "deduction": null,
+            "balanceoffund": null,
+            "salaryofyear": null,
+            "percenttax": null,
+            "tax": null
+        },
+        {
+            "name" : "นาย D",
+            "salary" : 18000,
+            "fee": null,
+            "bonus": null,
+            "balance": null,
+            "company": null,
+            "fund": null,
+            "deduction": null,
+            "balanceoffund": null,
+            "salaryofyear": null,
+            "percenttax": null,
+            "tax": null
+        },
+        {
+            "name" : "นาย E",
+            "salary" : 21000,
+            "fee": null,
+            "bonus": null,
+            "balance": null,
+            "company": null,
+            "fund": null,
+            "deduction": null,
+            "balanceoffund": null,
+            "salaryofyear": null,
+            "percenttax": null,
+            "tax": null
+        }
+    ]
+}
